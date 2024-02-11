@@ -1,0 +1,15 @@
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns.deps.json
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns.runtimeconfig.json
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns.dll
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns.pdb
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.csproj.AssemblyReference.cache
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.AssemblyInfoInputs.cache
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.AssemblyInfo.cs
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.dll
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/obj/Debug/net7.0/refint/DesignPatterns.dll
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.pdb
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.genruntimeconfig.cache
+/Users/luissandoval/Documents/Developments/Design Patterns/DesignPatterns/obj/Debug/net7.0/ref/DesignPatterns.dll
